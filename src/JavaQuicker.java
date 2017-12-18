@@ -8,7 +8,11 @@ public class JavaQuicker {
 //    FrogJmp frogJmp = new FrogJmp();
 //    PermMissingElem permMissingElem = new PermMissingElem();
 //    TapeEquilibrium tapeEquilibrium = new TapeEquilibrium();
-    PermCheck permCheck = new PermCheck();
+//    PermCheck permCheck = new PermCheck();
+//    FrogRiverOne frogRiverOne = new FrogRiverOne();
+//    PassingCars passingCars = new PassingCars();
+//    Test testOne = new Test();
+    TestTwo testTwo = new TestTwo();
   }
 
   public static void p(String stringToPrint) {
