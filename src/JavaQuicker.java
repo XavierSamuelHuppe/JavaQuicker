@@ -10,7 +10,7 @@ public class JavaQuicker {
 //    TapeEquilibrium tapeEquilibrium = new TapeEquilibrium();
 //    PermCheck permCheck = new PermCheck();
 //    FrogRiverOne frogRiverOne = new FrogRiverOne();
-//    PassingCars passingCars = new PassingCars();
+    PassingCars passingCars = new PassingCars();
   }
 
   public static void p(String stringToPrint) {
